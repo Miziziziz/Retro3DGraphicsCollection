@@ -1,8 +1,8 @@
 # CC0Retro3DGraphicsCollection
-a compilation of game ready retro style 3d graphic assets (think PS1) in the public domain
+A compilation of game-ready retro style 3d graphic assets (think PS1) in the public domain
 
 
-# To submit:
+## To submit:
 upload your assets to opengameart.org and/or itch.io under the cc0 license
 create an issue on this github project with a link to your assets
 
