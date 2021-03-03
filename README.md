@@ -13,10 +13,12 @@ things this collection could use:
 * contemporary stuff
 * scifi stuff
 * rigged characters
+* modular building pieces
+* skyboxes/skyspheres
 * vehicles
 * furniture
 * nature
 * weapons
 * animals
-* decals/particle textures
+* decals/particle textures like fire/blood
 * retro style fonts, icons, and ui themes
