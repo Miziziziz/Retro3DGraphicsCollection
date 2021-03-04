@@ -1,4 +1,4 @@
-# CC0Retro3DGraphicsCollection
+# The Big Collection of CC0 PS1 Style Assets
 A compilation of game-ready retro style 3d graphic assets (think PS1) in the public domain
 
 
