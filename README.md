@@ -22,3 +22,8 @@ things this collection could use:
 * animals
 * decals/particle textures like fire/blood
 * retro style fonts, icons, and ui themes
+
+# Assets
+
+## nature
+ps1 style nature assets pack: https://opengameart.org/content/ps1-style-nature-assets
