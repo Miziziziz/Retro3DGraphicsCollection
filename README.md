@@ -31,6 +31,7 @@ things this collection could use:
 ## Contemporary
 * mailbox: https://opengameart.org/content/low-poly-textured-mailbox
 * radio, traffic cone, rotary phone: https://opengameart.org/content/miscellaneous-low-poly-objects
+* brick building, concrete building, road, sidewalk: https://opengameart.org/content/ps1-style-industrial-buildings
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
