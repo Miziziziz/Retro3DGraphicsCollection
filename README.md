@@ -25,5 +25,5 @@ things this collection could use:
 
 # Assets
 
-## nature
+## Nature
 ps1 style nature assets pack: https://opengameart.org/content/ps1-style-nature-assets
