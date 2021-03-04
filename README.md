@@ -26,4 +26,12 @@ things this collection could use:
 # Assets
 
 ## Nature
-ps1 style nature assets pack: https://opengameart.org/content/ps1-style-nature-assets
+pine trees and rocks: https://opengameart.org/content/ps1-style-nature-assets
+
+## Contemporary
+mailbox: https://opengameart.org/content/low-poly-textured-mailbox
+radio, traffic cone, rotary phone: https://opengameart.org/content/miscellaneous-low-poly-objects
+
+## Fantasy
+medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
+
