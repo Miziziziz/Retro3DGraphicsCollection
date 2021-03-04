@@ -1,12 +1,11 @@
 # The Big Collection of CC0 PS1 Style Assets
-A compilation of game-ready retro style 3d graphic assets (think PS1) in the public domain
-
+A compilation of game-ready retro style 3d graphic assets (think PS1) in the public domain or are commercially usable with no attribution, share-alike, or such required.
 
 ## To submit:
-1. upload your assets to opengameart.org and/or itch.io under the cc0 license
+1. upload your assets to opengameart.org and/or itch.io under the cc0 license (put on a note for license info on itch)
 2. create an issue on this github project with a link to your assets
 
-You must have commercial rights to all parts of the assets! You cannot submit anything that uses texture found on google images randomly. Textures must be from sites like textures.com, pexels.com, or you must have taken the photo/painted it yourself. 3D models and animations must also be made by you or cc0/from sources that allow commercial use without attribution and are not under share-alike licenses.
+You must have commercial rights to all parts of the assets! You cannot submit anything that uses texture found on google images randomly. Textures must be from sites like CC0Textures.com, texturehaven.com, pexels.com, or you must have taken the photo/painted it yourself. 3D models and animations must also be made by you or cc0/from sources that allow commercial use without attribution and are not under share-alike licenses.
 
 things this collection could use:
 * fantasy stuff
