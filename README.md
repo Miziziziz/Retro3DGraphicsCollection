@@ -36,3 +36,4 @@ things this collection could use:
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
 * spear: https://opengameart.org/content/spear-6
+* chimera and pegasus statues: https://tellyhead.itch.io/pegasus-and-chimera-retro-3d-models
