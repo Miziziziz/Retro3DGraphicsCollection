@@ -33,5 +33,5 @@ things this collection could use:
 * radio, traffic cone, rotary phone: https://opengameart.org/content/miscellaneous-low-poly-objects
 
 ## Fantasy
-medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
+* medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
 
