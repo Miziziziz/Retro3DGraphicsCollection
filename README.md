@@ -35,6 +35,10 @@ things this collection could use:
 * brick building, concrete building, road, sidewalk: https://nartier.itch.io/ps1-style-industrial-buildings
 * stiff chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
 * cabinet: https://willffffffffff.itch.io/low-poly-cabinet
+* European small family car (1960s and 1970s): https://ggbot.itch.io/psx-style-car
+* Train and Railway: https://ace-x6.itch.io/train-and-railway-ps1-style
+* Modern Weapons: https://ace-x6.itch.io/modern-weapons-ps1-style
+* 
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
