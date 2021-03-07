@@ -33,8 +33,8 @@ things this collection could use:
 * mailbox: https://opengameart.org/content/low-poly-textured-mailbox
 * radio, traffic cone, rotary phone: https://opengameart.org/content/miscellaneous-low-poly-objects
 * brick building, concrete building, road, sidewalk: https://nartier.itch.io/ps1-style-industrial-buildings
+* stiff chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
+* cabinet: https://willffffffffff.itch.io/low-poly-cabinet
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
-* spear: https://opengameart.org/content/spear-6
-* chimera and pegasus statues: https://tellyhead.itch.io/pegasus-and-chimera-retro-3d-models
