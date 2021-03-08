@@ -28,6 +28,8 @@ things this collection could use:
 
 ## Nature
 * pine trees and rocks: https://nartier.itch.io/ps1-style-nature-assets
+* fish and a raven: https://cokeenthusiast.itch.io/ps1-style-fish
+* rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 
 ## Contemporary
 * mailbox: https://opengameart.org/content/low-poly-textured-mailbox
@@ -38,7 +40,10 @@ things this collection could use:
 * European small family car (1960s and 1970s): https://ggbot.itch.io/psx-style-car
 * Train and Railway: https://ace-x6.itch.io/train-and-railway-ps1-style
 * Modern Weapons: https://ace-x6.itch.io/modern-weapons-ps1-style
-* 
+* Metal and Explosive Barrels: https://psi-boredom-omega.itch.io/ps1-styled-barrels
+* Low-Poly M4A1: https://opengameart.org/content/low-poly-m4a1
+* Three barrels (regular, explosive, corrosive) and a rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
+
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
