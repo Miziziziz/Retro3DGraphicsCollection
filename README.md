@@ -43,7 +43,11 @@ things this collection could use:
 * Metal and Explosive Barrels: https://psi-boredom-omega.itch.io/ps1-styled-barrels
 * Low-Poly M4A1: https://opengameart.org/content/low-poly-m4a1
 * Three barrels (regular, explosive, corrosive) and a rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
+* forklift, chain, hook, barreL: https://scoppio.itch.io/forklift-chain-hook-and-barrel
+* stiff old chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
 
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
+* armored knight: https://scoppio.itch.io/fullplate-armor-knight
+* 
