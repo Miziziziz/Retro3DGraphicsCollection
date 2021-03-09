@@ -33,7 +33,6 @@ things this collection could use:
 
 ## Contemporary
 * mailbox: https://opengameart.org/content/low-poly-textured-mailbox
-* radio, traffic cone, rotary phone: https://opengameart.org/content/miscellaneous-low-poly-objects
 * brick building, concrete building, road, sidewalk: https://nartier.itch.io/ps1-style-industrial-buildings
 * stiff chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
 * cabinet: https://willffffffffff.itch.io/low-poly-cabinet
