@@ -44,9 +44,9 @@ things this collection could use:
 * Three barrels (regular, explosive, corrosive) and a rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 * forklift, chain, hook, barreL: https://scoppio.itch.io/forklift-chain-hook-and-barrel
 * stiff old chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
+* barrel: https://bvoigtlaender.itch.io/barrel
 
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
 * armored knight: https://scoppio.itch.io/fullplate-armor-knight
-* 
