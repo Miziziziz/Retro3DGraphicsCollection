@@ -1,4 +1,4 @@
-# The Big Collection of Commercially Usable PS1 Style Assets
+# The Big Collection of Commercially Usable Retro 3D Style Assets
 A compilation of game-ready retro style 3d graphic assets (think PS1) that are commercially usable with no attribution, share-alike, or such required.
 
 ## To submit:
