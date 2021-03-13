@@ -26,10 +26,14 @@ things this collection could use:
 
 # Assets
 
+## Other Collections
+* Classic64 Asset Library: https://craigsnedeker.itch.io/classic64-asset-library
+
 ## Nature
 * pine trees and rocks: https://nartier.itch.io/ps1-style-nature-assets
 * fish and a raven: https://cokeenthusiast.itch.io/ps1-style-fish
 * rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
+* PSX Tree Pack: https://elegantcrow.itch.io/psx-retro-style-tree-pack
 
 ## Contemporary
 * mailbox: https://opengameart.org/content/low-poly-textured-mailbox
@@ -45,8 +49,10 @@ things this collection could use:
 * forklift, chain, hook, barreL: https://scoppio.itch.io/forklift-chain-hook-and-barrel
 * stiff old chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
 * barrel: https://bvoigtlaender.itch.io/barrel
-
+* crate: https://retroarchy.itch.io/psx-style-crate
+* Rural House Prefabs: https://ace-x6.itch.io/rural-house-prefabs-ps1-style
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
 * armored knight: https://scoppio.itch.io/fullplate-armor-knight
+* witch hat: https://opengameart.org/content/low-poly-witch-hat
