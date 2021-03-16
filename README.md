@@ -47,7 +47,6 @@ things this collection could use:
 * Low-Poly M4A1: https://opengameart.org/content/low-poly-m4a1
 * Three barrels (regular, explosive, corrosive) and a rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 * forklift, chain, hook, barreL: https://scoppio.itch.io/forklift-chain-hook-and-barrel
-* stiff old chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
 * barrel: https://bvoigtlaender.itch.io/barrel
 * crate: https://retroarchy.itch.io/psx-style-crate
 * Rural House Prefabs: https://ace-x6.itch.io/rural-house-prefabs-ps1-style
