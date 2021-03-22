@@ -34,8 +34,10 @@ things this collection could use:
 * fish and a raven: https://cokeenthusiast.itch.io/ps1-style-fish
 * rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 * PSX Tree Pack: https://elegantcrow.itch.io/psx-retro-style-tree-pack
+* wild bat models: https://obliviist.itch.io/ps1psx-style-wild-bats
 
 ## Contemporary
+* urban kit(100 models): https://kenney.nl/assets/retro-urban-kit
 * mailbox: https://opengameart.org/content/low-poly-textured-mailbox
 * brick building, concrete building, road, sidewalk: https://nartier.itch.io/ps1-style-industrial-buildings
 * stiff chair: https://samybencherif.itch.io/uncomfortable-looking-yellow-chair
@@ -50,6 +52,7 @@ things this collection could use:
 * barrel: https://bvoigtlaender.itch.io/barrel
 * crate: https://retroarchy.itch.io/psx-style-crate
 * Rural House Prefabs: https://ace-x6.itch.io/rural-house-prefabs-ps1-style
+* German police officer: https://stephrobertgames.itch.io/german-police-officer
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
