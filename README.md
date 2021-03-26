@@ -52,7 +52,8 @@ things this collection could use:
 * barrel: https://bvoigtlaender.itch.io/barrel
 * crate: https://retroarchy.itch.io/psx-style-crate
 * Rural House Prefabs: https://ace-x6.itch.io/rural-house-prefabs-ps1-style
-* German police officer: https://stephrobertgames.itch.io/german-police-officer
+* German police officer, police car, and handgun: https://stephrobertgames.itch.io/german-police-officer-set
+* German police officer alt: https://stephrobertgames.itch.io/german-police-officer
 * Road barriers: https://retroarchy.itch.io/ps1-road-barriers
 
 ## Fantasy
