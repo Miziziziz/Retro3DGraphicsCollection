@@ -35,6 +35,7 @@ things this collection could use:
 * rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 * PSX Tree Pack: https://elegantcrow.itch.io/psx-retro-style-tree-pack
 * wild bat models: https://obliviist.itch.io/ps1psx-style-wild-bats
+* alpaca & capybara models: https://obliviist.itch.io/ps1psx-style-alpaca-capybara-models
 
 ## Contemporary
 * urban kit(100 models): https://kenney.nl/assets/retro-urban-kit
