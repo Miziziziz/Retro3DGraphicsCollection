@@ -61,3 +61,4 @@ things this collection could use:
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
 * armored knight: https://scoppio.itch.io/fullplate-armor-knight
 * witch hat: https://opengameart.org/content/low-poly-witch-hat
+* various retro textures: https://opengameart.org/content/various-retro-textures
