@@ -63,3 +63,4 @@ things this collection could use:
 * armored knight: https://scoppio.itch.io/fullplate-armor-knight
 * witch hat: https://opengameart.org/content/low-poly-witch-hat
 * various retro textures: https://opengameart.org/content/various-retro-textures
+* villager men: https://stephrobertgames.itch.io/villager-men-psxlowpoly-design
