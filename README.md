@@ -59,6 +59,8 @@ things this collection could use:
 * Road barriers: https://retroarchy.itch.io/ps1-road-barriers
 * Skyscrapers: https://elegantcrow.itch.io/retro-skyscraper-pack
 * Two dieselpunk tanks: https://chilly-durango.itch.io/2dieselpunktanks
+* Retro Modular House Pack: https://elegantcrow.itch.io/retro-modular-house-pack
+* 3D Retro Shacks Shanties Sheds & Gantries: https://chilly-durango.itch.io/3dretroshacks
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
