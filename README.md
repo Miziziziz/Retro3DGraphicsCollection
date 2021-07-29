@@ -62,6 +62,7 @@ things this collection could use:
 * Retro Modular House Pack: https://elegantcrow.itch.io/retro-modular-house-pack
 * 3D Retro Shacks Shanties Sheds & Gantries: https://chilly-durango.itch.io/3dretroshacks
 * Low-Poly Glock Model: https://mextie.itch.io/low-poly-glock
+* PS1 Heavy and Light Weapons Pack: https://ace-spectre.itch.io/ps1-heavy-and-light-weapons-pack
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
