@@ -47,7 +47,7 @@ things this collection could use:
 * European small family car (1960s and 1970s): https://ggbot.itch.io/psx-style-car
 * Train and Railway: https://ace-x6.itch.io/train-and-railway-ps1-style
 * Modern Weapons: https://ace-x6.itch.io/modern-weapons-ps1-style
-* Metal and Explosive Barrels: https://psi-boredom-omega.itch.io/ps1-styled-barrels
+* Metal and Explosive Barrels: https://alium-realis.itch.io/ps1-styled-barrels
 * Low-Poly M4A1: https://opengameart.org/content/low-poly-m4a1
 * Three barrels (regular, explosive, corrosive) and a rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 * forklift, chain, hook, barreL: https://scoppio.itch.io/forklift-chain-hook-and-barrel
