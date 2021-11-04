@@ -66,6 +66,7 @@ things this collection could use:
 * 3D Retro Plumbing, Wiring & Machinery: https://chilly-durango.itch.io/3d-retro-plumbing-wiring
 * Double Barrel Shotgun Psx Style: https://cemckrc.itch.io/double-barrel-shotgun-psx-ps1-style
 * Fps Arms Psx Style: https://cemckrc.itch.io/fps-arms-psx-style
+* Pack of low poly psx style models: https://elbolilloduro.itch.io/paquete-de-modelos-low-poly-estilo-psx-2
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
@@ -74,6 +75,7 @@ things this collection could use:
 * various retro textures: https://opengameart.org/content/various-retro-textures
 * villager men: https://stephrobertgames.itch.io/villager-men-psxlowpoly-design
 * modular castle kit: https://kenney.nl/assets/retro-medieval-kit
+* Medieval/Fantasy Building Parts/Furnishings: https://chilly-durango.itch.io/medieval-building-parts
 
 ## Shaders
 * unreal retro shaders: https://github.com/DaveFace/UnrealRetroShaders
