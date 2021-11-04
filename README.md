@@ -68,6 +68,9 @@ things this collection could use:
 * Fps Arms Psx Style: https://cemckrc.itch.io/fps-arms-psx-style
 * Pack of low poly psx style models: https://elbolilloduro.itch.io/paquete-de-modelos-low-poly-estilo-psx-2
 
+## Scifi
+* retro textures pack: https://little-martian.itch.io/retro-texture-pack
+
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
 * armored knight: https://scoppio.itch.io/fullplate-armor-knight
