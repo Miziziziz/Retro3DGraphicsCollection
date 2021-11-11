@@ -32,7 +32,6 @@ things this collection could use:
 ## Nature
 * pine trees and rocks: https://nartier.itch.io/ps1-style-nature-assets
 * fish and a raven: https://cokeenthusiast.itch.io/ps1-style-fish
-* rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 * PSX Tree Pack: https://elegantcrow.itch.io/psx-retro-style-tree-pack
 * wild bat models: https://obliviist.itch.io/ps1psx-style-wild-bats
 * alpaca & capybara models: https://obliviist.itch.io/ps1psx-style-alpaca-capybara-models
@@ -49,7 +48,6 @@ things this collection could use:
 * Modern Weapons: https://ace-x6.itch.io/modern-weapons-ps1-style
 * Metal and Explosive Barrels: https://alium-realis.itch.io/ps1-styled-barrels
 * Low-Poly M4A1: https://opengameart.org/content/low-poly-m4a1
-* Three barrels (regular, explosive, corrosive) and a rigged crow: https://punkpebblestudio.itch.io/low-poly-ps1-style-game-assets
 * forklift, chain, hook, barreL: https://scoppio.itch.io/forklift-chain-hook-and-barrel
 * barrel: https://bvoigtlaender.itch.io/barrel
 * crate: https://retroarchy.itch.io/psx-style-crate
