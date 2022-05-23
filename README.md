@@ -67,6 +67,7 @@ things this collection could use:
 * Fps Arms Psx Style: https://cemckrc.itch.io/fps-arms-psx-style
 * Pack of low poly psx style models: https://elbolilloduro.itch.io/paquete-de-modelos-low-poly-estilo-psx-2
 * Retro house pack: https://elegantcrow.itch.io/retro-house-pack
+* Low poly asset pack: https://studionokoi.itch.io/low-poly-assets-1
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
@@ -79,6 +80,7 @@ things this collection could use:
 * villager men: https://stephrobertgames.itch.io/villager-men-psxlowpoly-design
 * modular castle kit: https://kenney.nl/assets/retro-medieval-kit
 * Medieval/Fantasy Building Parts/Furnishings: https://chilly-durango.itch.io/medieval-building-parts
+* vase model: https://printer-not-found.itch.io/psx-pot
 
 ## Shaders
 * unreal retro shaders: https://github.com/DaveFace/UnrealRetroShaders
