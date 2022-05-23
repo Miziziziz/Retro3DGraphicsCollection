@@ -36,6 +36,7 @@ things this collection could use:
 * wild bat models: https://obliviist.itch.io/ps1psx-style-wild-bats
 * alpaca & capybara models: https://obliviist.itch.io/ps1psx-style-alpaca-capybara-models
 * Retro Modular Hedge Maze: https://elegantcrow.itch.io/retro-modular-hedge-maze
+* Retro psx nature pack: https://elegantcrow.itch.io/retro-psx-nature-pack
 
 ## Contemporary
 * urban kit(100 models): https://kenney.nl/assets/retro-urban-kit
@@ -65,6 +66,7 @@ things this collection could use:
 * Double Barrel Shotgun Psx Style: https://cemckrc.itch.io/double-barrel-shotgun-psx-ps1-style
 * Fps Arms Psx Style: https://cemckrc.itch.io/fps-arms-psx-style
 * Pack of low poly psx style models: https://elbolilloduro.itch.io/paquete-de-modelos-low-poly-estilo-psx-2
+* Retro house pack: https://elegantcrow.itch.io/retro-house-pack
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
