@@ -68,6 +68,7 @@ things this collection could use:
 * Pack of low poly psx style models: https://elbolilloduro.itch.io/paquete-de-modelos-low-poly-estilo-psx-2
 * Retro house pack: https://elegantcrow.itch.io/retro-house-pack
 * Low poly asset pack: https://studionokoi.itch.io/low-poly-assets-1
+* Retro Radio: https://aleksicluka.itch.io/low-poly-retro-radio
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
