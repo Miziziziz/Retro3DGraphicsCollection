@@ -70,6 +70,7 @@ things this collection could use:
 * Low poly asset pack: https://studionokoi.itch.io/low-poly-assets-1
 * Retro Radio: https://aleksicluka.itch.io/low-poly-retro-radio
 * Old Wooden Stool: https://aleksicluka.itch.io/low-poly-old-wooden-stool
+* Unrigged cartoon woman: https://stephrobertgames.itch.io/cartoon-woman-retro-psx-low-poly
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
