@@ -84,7 +84,7 @@ things this collection could use:
 * modular castle kit: https://kenney.nl/assets/retro-medieval-kit
 * Medieval/Fantasy Building Parts/Furnishings: https://chilly-durango.itch.io/medieval-building-parts
 * vase model: https://printer-not-found.itch.io/psx-pot
-* Bigfoot model: elegantcrow.itch.io/retro-rigged-bigfoot
+* Bigfoot model: https://elegantcrow.itch.io/retro-rigged-bigfoot
 
 ## Shaders
 * unreal retro shaders: https://github.com/DaveFace/UnrealRetroShaders
