@@ -71,6 +71,7 @@ things this collection could use:
 * Retro Radio: https://aleksicluka.itch.io/low-poly-retro-radio
 * Old Wooden Stool: https://aleksicluka.itch.io/low-poly-old-wooden-stool
 * Unrigged cartoon woman: https://stephrobertgames.itch.io/cartoon-woman-retro-psx-low-poly
+* Modular Vents: https://tophatpanda.itch.io/psx-style-modular-vents
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
