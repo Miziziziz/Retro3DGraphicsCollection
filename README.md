@@ -74,6 +74,7 @@ things this collection could use:
 * Unrigged cartoon woman: https://stephrobertgames.itch.io/cartoon-woman-retro-psx-low-poly
 * Modular Vents: https://tophatpanda.itch.io/psx-style-modular-vents
 * 80s style anime character: https://stephrobertgames.itch.io/anime-character-low-poly-psx
+* PSX Paper Texures: https://opengameart.org/content/psx-paper-textures-32x32px
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
