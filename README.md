@@ -89,6 +89,7 @@ things this collection could use:
 * Medieval/Fantasy Building Parts/Furnishings: https://chilly-durango.itch.io/medieval-building-parts
 * vase model: https://printer-not-found.itch.io/psx-pot
 * Bigfoot model: https://elegantcrow.itch.io/retro-rigged-bigfoot
+* retro modular dungeon tileset: https://tophatpanda.itch.io/retro-modular-dungeon-tileset
 
 ## Other
 * 32x32 prototype textures: https://opengameart.org/content/prototype-textures-32x32px
