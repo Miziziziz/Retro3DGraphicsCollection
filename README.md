@@ -76,6 +76,7 @@ things this collection could use:
 * 80s style anime character: https://stephrobertgames.itch.io/anime-character-low-poly-psx
 * PSX Paper Texures: https://opengameart.org/content/psx-paper-textures-32x32px
 * lofi ordinary man: https://stephrobertgames.itch.io/lofi-ordinary-man
+* modular fences: https://tophatpanda.itch.io/psx-style-fences
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
