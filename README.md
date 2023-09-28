@@ -38,6 +38,7 @@ things this collection could use:
 * Retro Modular Hedge Maze: https://elegantcrow.itch.io/retro-modular-hedge-maze
 * Retro psx nature pack: https://elegantcrow.itch.io/retro-psx-nature-pack
 * modular hedges: https://tophatpanda.itch.io/psx-style-hedges
+* low poly PSX Tree: https://mextie.itch.io/low-poly-psx-tree
 
 ## Contemporary
 * urban kit(100 models): https://kenney.nl/assets/retro-urban-kit
