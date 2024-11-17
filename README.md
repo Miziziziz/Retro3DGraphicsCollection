@@ -79,6 +79,8 @@ things this collection could use:
 * PSX Paper Texures: https://opengameart.org/content/psx-paper-textures-32x32px
 * lofi ordinary man: https://stephrobertgames.itch.io/lofi-ordinary-man
 * modular fences: https://valsekamerplant.itch.io/psx-style-fences
+* Sewers: https://elbolilloduro.itch.io/sewers
+* Mine: https://elbolilloduro.itch.io/mine
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
