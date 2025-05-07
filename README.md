@@ -81,6 +81,7 @@ things this collection could use:
 * modular fences: https://valsekamerplant.itch.io/psx-style-fences
 * Sewers: https://elbolilloduro.itch.io/sewers
 * Mine: https://elbolilloduro.itch.io/mine
+* PSX style cones & barriers: https://valsekamerplant.itch.io/psx-style-barriers
 
 ## Scifi
 * retro textures pack: https://little-martian.itch.io/retro-texture-pack
