@@ -98,6 +98,7 @@ things this collection could use:
 * Bigfoot model: https://elegantcrow.itch.io/retro-rigged-bigfoot
 * retro modular dungeon tileset: https://valsekamerplant.itch.io/retro-modular-dungeon-tileset
 * Funny Sorcerer Retro 3D Character: https://stephrobertgames.itch.io/funny-sorcerer-retro-3d-character-psx-n64
+* PSX Style Biblically Accurate Angel: https://taogyre.itch.io/ps1psx-style-biblically-accurate-angel
 
 ## Other
 * 32x32 prototype textures: https://opengameart.org/content/prototype-textures-32x32px
