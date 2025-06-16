@@ -84,7 +84,7 @@ things this collection could use:
 * PSX style cones & barriers: https://valsekamerplant.itch.io/psx-style-barriers
 
 ## Scifi
-* retro textures pack: https://little-martian.itch.io/retro-texture-pack
+* none at the moment
 
 ## Fantasy
 * medieval weapons: https://opengameart.org/content/ps1-medieval-weapons-sword-spear-shield-and-mace
