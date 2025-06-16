@@ -83,6 +83,7 @@ things this collection could use:
 * Mine: https://elbolilloduro.itch.io/mine
 * PSX style cones & barriers: https://valsekamerplant.itch.io/psx-style-barriers
 * Modular Urban Pack: https://valsekamerplant.itch.io/psx-style-urban-stacked-pack
+* Modular Retro FPS Kit: https://pizzadoggy.itch.io/modular-retro-fps-kit
 
 ## Scifi
 * none at the moment
