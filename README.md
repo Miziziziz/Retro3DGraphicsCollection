@@ -82,6 +82,7 @@ things this collection could use:
 * Sewers: https://elbolilloduro.itch.io/sewers
 * Mine: https://elbolilloduro.itch.io/mine
 * PSX style cones & barriers: https://valsekamerplant.itch.io/psx-style-barriers
+* Modular Urban Pack: https://valsekamerplant.itch.io/psx-style-urban-stacked-pack
 
 ## Scifi
 * none at the moment
