@@ -84,6 +84,7 @@ things this collection could use:
 * PSX style cones & barriers: https://valsekamerplant.itch.io/psx-style-barriers
 * Modular Urban Pack: https://valsekamerplant.itch.io/psx-style-urban-stacked-pack
 * Modular Retro FPS Kit: https://pizzadoggy.itch.io/modular-retro-fps-kit
+* Retro Horror Item Kit: https://3dexter.itch.io/retrohorrorkit
 
 ## Scifi
 * none at the moment
