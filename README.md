@@ -40,6 +40,7 @@ things this collection could use:
 * modular hedges: https://valsekamerplant.itch.io/psx-style-hedges
 * low poly PSX Tree: https://mextie.itch.io/low-poly-psx-tree
 * PSX style house plants: https://valsekamerplant.itch.io/psx-style-house-plants-and-pots
+* Retro Tree Pack: https://pizzadoggy.itch.io/retro-tree-pack
 
 ## Contemporary
 * urban kit(100 models): https://kenney.nl/assets/retro-urban-kit
