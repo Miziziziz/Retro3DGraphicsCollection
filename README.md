@@ -87,6 +87,7 @@ things this collection could use:
 * Modular Retro FPS Kit: https://pizzadoggy.itch.io/modular-retro-fps-kit
 * Retro Horror Item Kit: https://3dexter.itch.io/retrohorrorkit
 * Psx style office items: https://valsekamerplant.itch.io/psx-style-opulent-office
+* Ruined Campground asset pack: https://3dexter.itch.io/demolished-campground-environment
 
 ## Scifi
 * none at the moment
